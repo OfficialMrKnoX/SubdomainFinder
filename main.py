@@ -6,7 +6,7 @@ import sys
 import os
 os.system('cls')
 '''software information'''
-author = "Mr KnoX"
+author = "Mr KnoX(Abhay)"
 toolname = "KNOX SDF"
 version = 1.0
 year = 2020
